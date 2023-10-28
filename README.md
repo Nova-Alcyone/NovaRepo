@@ -21,10 +21,4 @@ Muyga
 
 Ce projet est actuellement géré par Muyga. Si vous souhaitez contribuer ou signaler des problèmes, veuillez contacter l'auteur.
 
-## Licence
-
-© Tous droits réservés.
-
-Tous les fichiers contenus dans ce référentiel sont la propriété de Nova Alcyone et sont soumis à des droits d'auteur. Vous n'êtes pas autorisé à copier, distribuer, ou utiliser ces fichiers sans autorisation. Toute utilisation en violation de ces termes constitue une infraction aux droits d'auteur.
-
-Pour toute demande de licence ou d'autorisation spécifique, veuillez contacter [support@novaalcyone.com].
+## [Licence](https://github.com/Muyga/NovaRepo/blob/main/LICENSE.md)
