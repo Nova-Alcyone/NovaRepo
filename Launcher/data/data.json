@@ -1,3 +1,5 @@
 {
-    "latest_version": "1.2"
+    "latest_version": "1.2",
+    "latest_client": "https://github.com/Nova-Alcyone/Client/releases/latest/download/NovaClient.exe",
+    "loading_image": "https://github.com/Nova-Alcyone/Repo/blob/main/Launcher/images/LoadingScreen.png?raw=true"
 }
