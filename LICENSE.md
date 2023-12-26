@@ -4,7 +4,7 @@ L'utilisation de ce produit de Nova Alcyone est régie par les termes de la pré
 
 ### 1. Droits d'auteur
 
-Ce produit est protégé par les lois sur les droits d'auteur et est la propriété intellectuelle de Muyga. Tous les droits qui ne sont pas expressément accordés par cette licence sont réservés à l'auteur.
+Ce produit est protégé par les lois sur les droits d'auteur et est la propriété intellectuelle de @Nova-Alcyone. Tous les droits qui ne sont pas expressément accordés par cette licence sont réservés à l'auteur.
 
 ### 2. Utilisation personnelle
 
