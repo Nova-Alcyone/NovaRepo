@@ -1,6 +1,6 @@
 # Repo de Nova Alcyone
 
-![Logo du Lanceur](https://github.com/Muyga/NovaRepo/blob/main/Launcher/images/Nova-Antares.png?raw=true)
+![Logo du Lanceur](https://raw.githubusercontent.com/Nova-Alcyone/Repo/main/Launcher/images/Nova-Antares.png)
 
 REPO des documents de Nova Alcyone.
 
