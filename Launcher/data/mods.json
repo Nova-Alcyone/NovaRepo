@@ -1,8 +1,6 @@
 {
     "mods": {
-        "fix": {
-            ""
-        },
+        "fix": {},
         "user": {
             "optifine": "https://novaalcyone.com/storage/lanceur/mods/optifine.jar",
             "phosphore": "https://novaalcyone.com/storage/lanceur/mods/phosphore.jar",
