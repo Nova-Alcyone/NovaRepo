@@ -1,0 +1,18 @@
+{
+    "mods": {
+        "fix": {
+            []
+        }
+        "user": {
+            "optifine": "https://novaalcyone.com/storage/lanceur/mods/optifine.jar",
+            "phosphore": "https://novaalcyone.com/storage/lanceur/mods/phosphore.jar",
+            "spark": "https://novaalcyone.com/storage/lanceur/mods/spark.jar",
+            "surroundings": "https://novaalcyone.com/storage/lanceur/mods/surroundings.jar",
+            "gecko": "https://novaalcyone.com/storage/lanceur/mods/gecko.jar",
+            "lights": "https://novaalcyone.com/storage/lanceur/mods/lights.jar",
+            "appleskin": "https://novaalcyone.com/storage/lanceur/mods/appleskin.jar",
+            "mouse": "https://novaalcyone.com/storage/lanceur/mods/mouse.jar",
+            "map": "https://novaalcyone.com/storage/lanceur/mods/map.jar"
+        }
+    }
+}
