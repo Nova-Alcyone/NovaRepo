@@ -10,7 +10,8 @@
             "lights": "https://novaalcyone.com/storage/lanceur/mods/lights.jar",
             "appleskin": "https://novaalcyone.com/storage/lanceur/mods/appleskin.jar",
             "mouse": "https://novaalcyone.com/storage/lanceur/mods/mouse.jar",
-            "map": "https://novaalcyone.com/storage/lanceur/mods/map.jar"
+            "map": "https://novaalcyone.com/storage/lanceur/mods/map.jar",
+            "orelib": "https://novaalcyone.com/storage/lanceur/mods/orelib.jar"
         }
     }
 }
