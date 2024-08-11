@@ -11,7 +11,7 @@
             "appleskin": "https://novaalcyone.com/storage/lanceur/mods/appleskin.jar",
             "mouse": "https://novaalcyone.com/storage/lanceur/mods/mouse.jar",
             "map": "https://novaalcyone.com/storage/lanceur/mods/map.jar",
-            "dependancies": {
+            "dependencies": {
                 "surroundings": {
                     "orelib": "https://novaalcyone.com/storage/lanceur/mods/orelib.jar"
                 }
