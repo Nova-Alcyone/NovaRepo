@@ -45,5 +45,7 @@
     "background_ram.png": "1.0",
     "background_console.png": "1.0",
     "background_about.png": "1.0",
-    "user_head.png": "1.0"
+    "user_head.png": "1.0",
+    "slider.png": "1.0",
+    "knob.png": "1.0"
 }
